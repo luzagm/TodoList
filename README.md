@@ -7,8 +7,8 @@ This project consists of different elements to type and save a list of our daily
 - [✔] It must use TypeScript and Hooks.
 - [✔] It must have an input to type the tasks and an area for the list of tasks.
 - [✔] It must have handling functions to update, select and remove the tasks.
-- [.] Add routing to see a description of each task.
-- [.] Add a localStorage to save the list.
+- [-] Add routing to see a description of each task.
+- [-] Add a localStorage to save the list.
 
 ## How to run the project
 
@@ -28,4 +28,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 This has been my first contact with TypeScript and Hooks after learning JavaScript and ReactJs. I spent a few days just reading documentation and practicing with smaller projects. When I felt confident enough, I decided to give it a try.<br/>
 I'm sure there are things that I could improve (and probably will do in the future).
 
-__Thanks for reading and for supporting me, a junior developer!__ :smiley:	
+<br/>
+<br/>
+__Thanks for reading!__ :smiley:	
