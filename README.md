@@ -7,8 +7,8 @@ This project consists of different elements to type and save a list of our daily
 - [✔] It must use TypeScript and Hooks.
 - [✔] It must have an input to type the tasks and an area for the list of tasks.
 - [✔] It must have handling functions to update, select and remove the tasks.
-- [] Add routing to see a description of each task.
-- [] Add a localStorage to save the list.
+- [.] Add routing to see a description of each task.
+- [.] Add a localStorage to save the list.
 
 ## How to run the project
 
